@@ -1,3 +1,6 @@
+#Excercise #¿?
+#Do a Tamagochi
+
 def Tamagochi_():
     
     print("Welcome to Tamagochi")
