@@ -1,5 +1,5 @@
 #Excercise #¿?
-#Do a Calculator
+#Make a Calculator
 
 def calculator_():
     
