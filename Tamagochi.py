@@ -95,7 +95,7 @@ def Tamagochi_():
                         hunger = 100
                         energy = 100
                 
-                if option == '2':
+                elif option == '2':
                     if hunger <= 95 and energy <= 95:
                         hunger += 5
                         energy += 5
@@ -105,7 +105,7 @@ def Tamagochi_():
                         hunger = 100
                         energy = 100
                 
-                if option == '3':
+                elif option == '3':
                     if hunger <= 80 and energy <= 85:
                         hunger += 20
                         energy += 15
@@ -115,7 +115,7 @@ def Tamagochi_():
                         hunger = 100
                         energy = 100
                 
-                if option == '4':
+                elif option == '4':
                     if hunger <= 95 and energy <= 85:
                         hunger += 5
                         energy += 15
@@ -125,7 +125,7 @@ def Tamagochi_():
                         hunger = 100
                         energy = 100
                 
-                if option == '5':
+                elif option == '5':
                     if hunger <= 97 and energy <= 95:
                         hunger += 3
                         energy += 5
@@ -135,7 +135,7 @@ def Tamagochi_():
                         hunger = 100
                         energy = 100
                 
-                if option == '6':
+                elif option == '6':
                     eat = False
 
         elif option == '4':
@@ -159,14 +159,14 @@ def Tamagochi_():
                     else:
                         energy = 100
                 
-                if option == '2':
+                elif option == '2':
                     if energy <= 85:
                         energy += 15
                     
                     else:
                         energy = 100
                 
-                if option == '3':
+                elif option == '3':
                     sleep = False
         
         elif option == '5':
