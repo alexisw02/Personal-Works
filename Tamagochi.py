@@ -138,7 +138,7 @@ def Tamagochi_():
                 if option == '6':
                     eat = False
 
-        if option == '4':
+        elif option == '4':
             sleep = True
             
             while sleep == True:
@@ -169,7 +169,7 @@ def Tamagochi_():
                 if option == '3':
                     sleep = False
         
-        if option == '5':
+        elif option == '5':
             break
 Tamagochi_()
 
