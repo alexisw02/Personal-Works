@@ -1,5 +1,5 @@
 #Excercise #¿?
-#Do a Tamagochi
+#Make a Tamagochi
 
 def Tamagochi_():
     
